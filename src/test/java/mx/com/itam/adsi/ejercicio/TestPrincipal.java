@@ -35,7 +35,7 @@ public class TestPrincipal {
         val="fff1";
         assertTrue("Calculo para '"+val+"':", calc(HEXA, val, 65521));
         val="100110";
-        assertTrue("Calculo para '"+val+"':", calc(BINARIO, val, 38));
+        assertTrue("Calculo para '"+val+"':", calc(BINARIO, val, 48));
     }
     
     private boolean calc(String alphabet, String value, int res) {
