@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FindBugsFilter>
+	<Match>
+		<Bug pattern="EI_EXPOSE_REP,EI_EXPOSE_REP2, SE_BAD_FIELD" />
+	</Match>
+	<Match>
+		<Package name="com.sc.support.mail" />
+	</Match>
+	<Match>
+		<Package name="com.sc.support.passUtils" />
+	</Match>
+	<Match>
+		<Package name="com.sc.security.service" />
+	</Match>
+</FindBugsFilter>
+
+
+<!-- 
+    <Bug pattern="WMI_WRONG_MAP_ITERATOR,SE_COMPARATOR_SHOULD_BE_SERIALIZABLE,RV_RETURN_VALUE_IGNORED,EI_EXPOSE_REP,EI_EXPOSE_REP2,MS_CANNOT_BE_FINAL,SBSC_USE_STRINGBUFFER_CONCATENATION,SE_BAD_FIELD"/>
+ -->
