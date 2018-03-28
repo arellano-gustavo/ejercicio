@@ -83,7 +83,7 @@
                 <configuration>
 
                     <!--Seccion siguiente gracias a: http://www.wakaleo.com/blog/292-site-generation-in-maven-3 -->
-                    <reportPlugins>
+                    
 
                         <!--JXR -->
                         <plugin>
@@ -189,7 +189,7 @@
                             </configuration>
                         </plugin>
 
-                    </reportPlugins>
+                    
 
                 </configuration>
             </plugin>
