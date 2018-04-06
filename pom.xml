@@ -16,7 +16,7 @@
     <repositories>
         <repository>
             <id>nexus.kebblar.io-repo</id>
-            <url>http://gustavo-arellano.com:8081/repository/all/</url>
+            <url>http://visitanos.net:8081/repository/all/</url>
             <name>Kebblar Repository</name>
         </repository>
     </repositories>
@@ -24,7 +24,7 @@
     <distributionManagement>
         <snapshotRepository>
             <id>nexus.kebblar.io-repo</id>
-            <url>http://gustavo-arellano.com:8081/repository/kebblar/</url>
+            <url>http://visitanos.net:8081/repository/kebblar/</url>
             <uniqueVersion>true</uniqueVersion>
         </snapshotRepository>
     </distributionManagement>     
