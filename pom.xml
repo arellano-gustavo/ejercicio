@@ -7,16 +7,16 @@
     <artifactId>ejercicio</artifactId>
     <packaging>jar</packaging>
     <version>1.0-SNAPSHOT</version>
-    <name>ejercicio</name>
+    <name>ejercicio1</name>
     <description>Proyecto "de ejemplo"</description>
     <url>http://adsi.itam.com.mx</url>
-    <inceptionYear>2018</inceptionYear>
+    <inceptionYear>7018</inceptionYear>
 
 
     <repositories>
         <repository>
             <id>nexus.kebblar.io-repo</id>
-            <url>http://gustavo-arellano.com:8081/repository/all/</url>
+            <url>http://visitanos.net:8081/repository/all/</url>
             <name>Kebblar Repository</name>
         </repository>
     </repositories>
@@ -24,7 +24,7 @@
     <distributionManagement>
         <snapshotRepository>
             <id>nexus.kebblar.io-repo</id>
-            <url>http://gustavo-arellano.com:8081/repository/kebblar/</url>
+            <url>http://visitanos.net:8081/repository/kebblar/</url>
             <uniqueVersion>true</uniqueVersion>
         </snapshotRepository>
     </distributionManagement>     
