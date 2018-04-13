@@ -7,7 +7,8 @@
     <artifactId>ejercicio</artifactId>
     <packaging>jar</packaging>
     <version>1.0-SNAPSHOT</version>
-    <name>ejercicio3</name>
+
+    <name>ejercicio7</name>
     <description>Proyecto "de ejemplo"</description>
     <url>http://adsi.itam.com.mx</url>
     <inceptionYear>7018</inceptionYear>
