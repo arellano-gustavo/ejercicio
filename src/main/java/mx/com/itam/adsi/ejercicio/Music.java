@@ -12,6 +12,7 @@ import javazoom.jl.decoder.JavaLayerException;
 import javazoom.jl.player.Player;
 
 public class Music extends Thread {
+    //http://mobile63.com/loud-alarm-tones-download/
     private static final String alarm = "/Users/garellano/development/code/binance-core/src/main/resources/alarm2.mp3";
 
     public void run2() {
